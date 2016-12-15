@@ -1,5 +1,7 @@
 This is a beginner tutorial of Travis CI for Node projects.
 
+[![Build Status](https://travis-ci.org/lusecond/travis-ci-demo.svg?branch=demo01)](https://travis-ci.org/lusecond/travis-ci-demo)
+
 ## How to use
 
 **Step 1**
